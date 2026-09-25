@@ -36,8 +36,8 @@ This project implements a unique **"Midnight Liquid Glass"** aesthetic, focusing
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/maruf-pfc/niloy-bhowmick.git
-    cd niloy-bhowmick
+    git clone https://github.com/yawneditor-zone/yawn-editor-portfolio.git
+    cd yawn-editor-portfolio
     ```
 
 2.  **Install dependencies**
@@ -91,7 +91,7 @@ pnpm start
 ## 📂 Project Structure
 
 ```plaintext
-📦niloy-bhowmick
+📦yawn-editor-portfolio
  ┣ 📂public
  ┃ ┣ 📂companies
  ┃ ┣ 📂project-images
